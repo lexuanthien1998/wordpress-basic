@@ -1,0 +1,210 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Musician",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-9d53c9958ee876f2e640db07326ab389.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-c74037a91763334e30b304697cbfbb42.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-913b252ed895e7214b70643758aa0dc0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4.jpg",
+            "source": "templates\/home-4-73a0b0fb80853fe266c48bd05ed35259.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Biography",
+            "screenshot": "screenshots\/biography.jpg",
+            "source": "templates\/biography-8cab001766cde75907d89cec98a1342a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Diary",
+            "screenshot": "screenshots\/diary.jpg",
+            "source": "templates\/diary-a4798ad6e31b065b4417bfdf68fe3984.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Lineup",
+            "screenshot": "screenshots\/lineup.jpg",
+            "source": "templates\/lineup-51f350d9ec6cd74434ee2cee11f87f5e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Member Profile",
+            "screenshot": "screenshots\/member-profile.jpg",
+            "source": "templates\/member-profile-667a83e108e6cd4ae3cd7943d6ea2fde.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tour",
+            "screenshot": "screenshots\/tour.jpg",
+            "source": "templates\/tour-bf61907680dd9f23970e2f2083026266.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tour With Sidebar",
+            "screenshot": "screenshots\/tour-with-sidebar.jpg",
+            "source": "templates\/tour-with-sidebar-44dcb48c75a6ecc8b7c778c56818e6f2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Releases- Pro",
+            "screenshot": "screenshots\/releases-pro.jpg",
+            "source": "templates\/releases-pro-054ef1759bba2c623468bf012c167a64.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Promo Single",
+            "screenshot": "screenshots\/promo-single.jpg",
+            "source": "templates\/promo-single-5cc9b3f8e355a85373bb061f45c4cf2c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Album- Pro",
+            "screenshot": "screenshots\/album-pro.jpg",
+            "source": "templates\/album-pro-975f5c71e76f8f469bbab65763e17c46.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact & Booking",
+            "screenshot": "screenshots\/contact-booking.jpg",
+            "source": "templates\/contact-booking-225ee8d9ee9268b168b5311746490d3a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-eea4653687eade3a45622b04341a6dfb.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

@@ -1,0 +1,81 @@
+/* Stacked Socials */
+.envato-kit-24-icon-flip{
+	width: 15px;
+	position: absolute;
+	bottom: 40px;
+	left: 20px;
+}
+.envato-kit-24-icon-flip a{margin: 5px 0 !important;}
+/* Left-aligned counter */
+.envato-kit-24-sans-progress .elementor-progress-bar{
+font-family: sans-serif;
+	text-transform: uppercase;
+}
+/* Side Tabs */
+.envato-kit-24-side-tabs .elementor-tab-title{
+	margin: 20px 0px 0px 5px;
+	padding: 0;
+	letter-spacing: .6rem;
+	transition: all ease-in-out .3s;
+}
+.envato-kit-24-side-tabs .elementor-tab-title:hover,
+.envato-kit-24-side-tabs .elementor-active{
+	transform: scale(1.1);
+	font-size: .7rem;
+}
+.envato-kit-24-side-tabs .elementor-tabs-wrapper{width: 12% !important;}
+.envato-kit-24-side-tabs .elementor-tabs-wrapper::before {
+content: "";
+	display: inline-block;
+	width: 1px;
+	height: 30px;
+	background: #FFF;
+	margin: 0 20px;
+}
+.envato-kit-24-side-tabs ul li{
+	list-style: none;
+}
+.envato-kit-24-side-tabs ul li::before{
+	content: '̶';
+	padding-right: 40px;
+}
+.envato-kit-24-side-tabs .elementor-tab-content{
+	transition: all ease-in-out .4s;
+}
+/* Square Nav dots */
+.envato-kit-24-square-dots .elementor-slick-slider ul.slick-dots li button:before{
+	content: '\f0c8';
+}
+
+/* Vertical Line */
+.envato-kit-24-90deg{
+	transform: rotate(90deg);
+}
+/* Carousel Hover */
+.envato-kit-24-hover figure > div:hover
+{
+  background: #3f4e60; 
+	transition: all ease-in-out .3s;
+}
+.envato-kit-24-hover img,
+.envato-kit-24-hover img::after{
+		-webkit-backface-visibility: hidden;
+	  -moz-backface-visibility: hidden;
+	  transition: all ease-in-out .3s;
+}
+.envato-kit-24-hover img:hover{
+	-webkit-mix-blend-mode: multiply;
+   mix-blend-mode: multiply;
+  -webkit-filter: grayscale(100%) contrast(1.5);
+  filter: grayscale(100%) contrast(1.5);
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	cursor: crosshair !important;
+}
+.envato-kit-24-hover img:hover::after{
+  background-color: #2cd6e1;
+  mix-blend-mode: lighten;
+	-webkit-mix-blend-mode: lighten;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+}
